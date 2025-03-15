@@ -16,7 +16,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/GODxWOLF/calculator-app.git
+git clone https://github.com/GODxWOLF/Calculator.git
 Navigate to the project directory:
 
 bash
